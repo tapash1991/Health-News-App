@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Health News</string>
+    <string name="news_type">Health News</string>
+    <string name="alertmessage">No internet connection , please connect to internet to get the latest news</string>
+    <string name="alert">!Alert</string>
+    <string name="country">in</string>
+    <string name="category">health</string>
+</resources>
